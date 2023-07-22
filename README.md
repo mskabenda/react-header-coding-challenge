@@ -1,4 +1,9 @@
-# Header Coding Challenge
+## Original Design ![original-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/c1f8e5ec-9213-4bcc-90f8-0d89f3e2bf13)
+
+## My Design ![my-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/9db0637f-4984-4f72-b556-4d7024486ba1)
+
+
+ Header Coding Challenge
 
 ## Introduction
 
