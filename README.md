@@ -5,7 +5,7 @@
 ## My Design ![my-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/9db0637f-4984-4f72-b556-4d7024486ba1)
 
 
- Header Coding Challenge
+ Header Coding Challenge (https://profy.dev/article/react-coding-challenges)
 
 ## Introduction
 
