@@ -1,4 +1,5 @@
-## Original Design ![original-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/c1f8e5ec-9213-4bcc-90f8-0d89f3e2bf13)
+## Original Design ![original-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/f1d15444-fa9b-4b8f-b028-4e3d868f2c97)
+
 
 ## My Design ![my-design](https://github.com/mskabenda/react-header-coding-challenge/assets/128099400/9db0637f-4984-4f72-b556-4d7024486ba1)
 
